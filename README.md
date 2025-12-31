@@ -1,10 +1,11 @@
 # Toby Jackson
 
-Senior penetration tester specializing in infrastructure and web application security. Currently working on moving into AI-specific security and red team research. 
+I enjoy helping create a safer digital future for all, especially in times of extreme change. Temporarily on a hiatus to focus on upskilling in areas I see as the most pivotal in the coming 5 years: AI and Cloud. 
+Ex technical lead and SME focused on network penetration testing with a healthy drizzle of web assessments. 
 
-- 🌐 Website: [tobyjackson.io](https://tobyjackson.io) [under construction]
-- 📝 Blog: [blog.tobyjackson.io](https://blog.tobyjackson.io) [under construction]
-- 💼 Available for contract work Q2 2025
+Love solving problems and just taking the learning journey one day at a time! 
+
+OSCP, OSEP, OSWE, CRTP, PNPT, CRTO, CPSA/CRT (OSCP Equivalency)
 
 ## Previous
 - Tech Lead and Infrastructure Pentesting SME (TrustFoundry, US)
