@@ -15,5 +15,5 @@ OSCP, OSEP, OSWE, CRTP, PNPT, CRTO, CPSA/CRT (OSCP Equivalency)
 - Senior Offensive Security Consultant (BDO Digital, London)
 
 ## Contact
-- [Email Me](mailto:toby@tobyjackson.io)
-- [LinkedIn](https://www.linkedin.com/in/toby-jackson-cyber/?originalSubdomain=uk)
+- ✉️ [Email Me](mailto:toby@tobyjackson.io) 
+- 🧳 [LinkedIn](https://www.linkedin.com/in/toby-jackson-cyber/?originalSubdomain=uk)
