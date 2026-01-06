@@ -7,6 +7,9 @@ Love solving problems and just taking the learning journey one day at a time!
 
 OSCP, OSEP, OSWE, CRTP, PNPT, CRTO, CPSA/CRT (OSCP Equivalency)
 
+## Current
+- Self-employed and open to select contract work. Upskilling and researching otherwise.
+
 ## Previous
 - Tech Lead and Infrastructure Pentesting SME (TrustFoundry, US)
 - Senior Offensive Security Consultant (BDO Digital, London)
